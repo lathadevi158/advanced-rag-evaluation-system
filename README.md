@@ -112,7 +112,7 @@ A **production-ready** Retrieval-Augmented Generation (RAG) system featuring adv
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/production-rag-system.git
+git clone https://github.com/lathadevi158/production-rag-system.git
 cd production-rag-system
 ```
 
