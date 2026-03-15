@@ -1,8 +1,4 @@
-# 🚀 Production-Grade RAG System
-
-[![Python 3.12+]](https://www.python.org/downloads/)
-[![FastAPI]](https://fastapi.tiangolo.com/)
-[![License: MIT]](https://opensource.org/licenses/MIT)
+# 🚀 Advanced RAG evaluation system
 
 A **production-ready** Retrieval-Augmented Generation (RAG) system featuring advanced chunking strategies, hybrid search, cross-encoder reranking, comprehensive evaluation frameworks (RAGAS & DeepEval), and built-in safety guardrails.
 
